@@ -1,0 +1,13 @@
+name: app-1112-pm
+title: app-1112-pm
+username:
+account: yangggshuyi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3216306
+bundleId: 3854767
+url: https://yangggshuyi.shinyapps.io/app-1112-pm/
+when: 1605234264.7839
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/.DS_Store
